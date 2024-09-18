@@ -48,5 +48,5 @@ int main()
 		std::cin >> percent;
 		std::cout << "Результат: " << percent / 100 * num1;
 	}
-	return 0;
+	return 0; 
 }
